@@ -10,7 +10,7 @@
 	"authors": [
 		{
 			"name": "Vincent"
-	
+		}
 	],
 	"esmodules": [
 		"./scripts/gridScale.js"
